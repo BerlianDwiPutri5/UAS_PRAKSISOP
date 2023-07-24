@@ -18,4 +18,5 @@ Fitur :
 ### SCREENSHOT PROGRAM
 
 ![output2](https://github.com/BerlianDwiPutri5/UAS_PRAKSISOP/assets/119154409/88b04457-08e2-4550-9fa9-e9939d5f441b)
+![output3](https://github.com/BerlianDwiPutri5/UAS_PRAKSISOP/assets/119154409/2d1c9572-1842-4983-918f-dc33fa7cfc3d)
 
